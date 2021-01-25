@@ -1,0 +1,9 @@
+.drop-button {
+    height: 50px;
+    width: 270px;
+    border: 2px solid black;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: left;
+    background: linear-gradient(to right, #72e0bf, #0f3fdb);
+}
